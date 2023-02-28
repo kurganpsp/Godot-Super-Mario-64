@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/mario-woohoo.wav-8f805cae6525cc210ac0b603a1aa0d25.sample"
+type="AudioStreamWAV"
+uid="uid://df1ks568b2cr7"
+path="res://.godot/imported/mario-woohoo.wav-8f805cae6525cc210ac0b603a1aa0d25.sample"
 
 [deps]
 
 source_file="res://Assets/Sounds/Mario Voices/mario-woohoo.wav"
-dest_files=[ "res://.import/mario-woohoo.wav-8f805cae6525cc210ac0b603a1aa0d25.sample" ]
+dest_files=["res://.godot/imported/mario-woohoo.wav-8f805cae6525cc210ac0b603a1aa0d25.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=false
 edit/normalize=true
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0

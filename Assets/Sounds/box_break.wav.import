@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/box_break.wav-c8bb725faabcd63a73959f61e33db5a5.sample"
+type="AudioStreamWAV"
+uid="uid://qerohf8f1aua"
+path="res://.godot/imported/box_break.wav-c8bb725faabcd63a73959f61e33db5a5.sample"
 
 [deps]
 
 source_file="res://Assets/Sounds/box_break.wav"
-dest_files=[ "res://.import/box_break.wav-c8bb725faabcd63a73959f61e33db5a5.sample" ]
+dest_files=["res://.godot/imported/box_break.wav-c8bb725faabcd63a73959f61e33db5a5.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=true
 edit/normalize=true
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0

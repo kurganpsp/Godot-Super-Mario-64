@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/enter_course.wav-0e6105d9afdcbbde7a334b15ecbeb4cb.sample"
+type="AudioStreamWAV"
+uid="uid://elqlt8onfsde"
+path="res://.godot/imported/enter_course.wav-0e6105d9afdcbbde7a334b15ecbeb4cb.sample"
 
 [deps]
 
 source_file="res://Assets/Sounds/enter_course.wav"
-dest_files=[ "res://.import/enter_course.wav-0e6105d9afdcbbde7a334b15ecbeb4cb.sample" ]
+dest_files=["res://.godot/imported/enter_course.wav-0e6105d9afdcbbde7a334b15ecbeb4cb.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=false
 edit/normalize=true
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0

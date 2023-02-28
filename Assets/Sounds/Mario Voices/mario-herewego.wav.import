@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/mario-herewego.wav-44a437b4f645fb3c0890e48aa2c284c7.sample"
+type="AudioStreamWAV"
+uid="uid://wbijigs2xrks"
+path="res://.godot/imported/mario-herewego.wav-44a437b4f645fb3c0890e48aa2c284c7.sample"
 
 [deps]
 
 source_file="res://Assets/Sounds/Mario Voices/mario-herewego.wav"
-dest_files=[ "res://.import/mario-herewego.wav-44a437b4f645fb3c0890e48aa2c284c7.sample" ]
+dest_files=["res://.godot/imported/mario-herewego.wav-44a437b4f645fb3c0890e48aa2c284c7.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=false
 edit/normalize=true
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0

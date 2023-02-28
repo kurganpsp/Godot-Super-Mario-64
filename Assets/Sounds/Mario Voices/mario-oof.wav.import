@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/mario-oof.wav-1b1dc0e3e9f38653b0afb1618d1ed076.sample"
+type="AudioStreamWAV"
+uid="uid://dvqh26lr0p5x6"
+path="res://.godot/imported/mario-oof.wav-1b1dc0e3e9f38653b0afb1618d1ed076.sample"
 
 [deps]
 
 source_file="res://Assets/Sounds/Mario Voices/mario-oof.wav"
-dest_files=[ "res://.import/mario-oof.wav-1b1dc0e3e9f38653b0afb1618d1ed076.sample" ]
+dest_files=["res://.godot/imported/mario-oof.wav-1b1dc0e3e9f38653b0afb1618d1ed076.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=false
 edit/normalize=true
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0

@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/mario-pain.wav-83f30473330324c1f66b98126f4138ec.sample"
+type="AudioStreamWAV"
+uid="uid://6ksakl1kp7ua"
+path="res://.godot/imported/mario-pain.wav-83f30473330324c1f66b98126f4138ec.sample"
 
 [deps]
 
 source_file="res://Assets/Sounds/Mario Voices/mario-pain.wav"
-dest_files=[ "res://.import/mario-pain.wav-83f30473330324c1f66b98126f4138ec.sample" ]
+dest_files=["res://.godot/imported/mario-pain.wav-83f30473330324c1f66b98126f4138ec.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=false
 edit/normalize=true
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0

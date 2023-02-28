@@ -1,0 +1,501 @@
+2a60927148abd1d33b818b535e306557
+::res://::1677610431
+Camera.gd::GDScript::-1::1677609922::0::1::::<>Spatial<>::
+CameraSystem.tscn::PackedScene::-1::1677609922::0::1::::<><>::res://Camera.gd<>res://addons/fsm/fsm.gd<>res://addons/fsm/icon.png<>res://CameraStates/Open Camera.gd<>res://CameraStates/Above Water Camera.gd<>res://CameraStates/Door Camera.gd<>res://CameraStates/Hanging Camera.gd<>res://CameraStates/Star Camera.gd
+default_bus_layout.tres::AudioBusLayout::2845449390457974715::1677610326::0::1::::<><>::
+default_env.tres::Environment::-1::1677609923::0::1::::<><>::
+fire_particle.png::CompressedTexture2D::7138786322473908826::1677609923::1677610431::1::::<><>::
+Flame.tscn::PackedScene::-1::1677609922::0::1::::<><>::res://fire_particle.png
+Global.gd::GDScript::-1::1677609922::0::1::::<>Node<>::
+HMC BGM.tscn::PackedScene::-1::1677609922::0::1::::<><>::res://addons/mixing-desk/music/mixing_desk_music.gd<>res://addons/mixing-desk/music/mdm_icon.png<>res://addons/mixing-desk/music/song.gd<>res://addons/mixing-desk/music/icons/song_icon.png<>res://addons/mixing-desk/music/containers/core_cont.gd<>res://addons/mixing-desk/music/icons/core_cont_icon.png<>res://Assets/Music/Background/hazy_maze_cave_intro.ogg<>res://Assets/Music/Background/hazy_maze_cave_loop_base.ogg<>res://Assets/Music/Background/hazy_maze_cave_loop_choir.ogg<>res://Assets/Music/Background/hazy_maze_cave_loop_guitar.ogg
+icon.png::CompressedTexture2D::9180627590719595478::1677609923::1677610431::1::::<><>::
+Moving Platform.gd::GDScript::-1::1677609922::0::1::::<>Spatial<>::
+README.md::TextFile::-1::1677609922::0::1::::<><>::
+Sound Particle.gd::GDScript::-1::1677609923::0::1::::SoundParticle<>AudioStreamPlayer3D<>::
+Sound Particle.tscn::PackedScene::-1::1677609923::0::1::::<><>::res://Sound Particle.gd
+Test.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+Test.tscn::PackedScene::-1::1677610637::0::1::::<><>::res://Test.gd<>res://Physics/debug_collisions.material<>res://CameraSystem.tscn<>res://Moving Platform.gd<>res://Entities/Power Block/Power Block.tscn<>res://Mario/Mario.tscn<>res://addons/water_pack/script/water.gd<>uid://p3yxb7his0or<>res://Entities/Scuttlebug/Scuttlebug.tscn<>res://Entities/Coin/Coin.tscn<>res://Door/Door.tscn<>uid://ccn4v2duftq3l<>uid://brful3bt48dac<>res://Entities/Star/Star.tscn<>res://HMC BGM.tscn
+::res://addons/::1677609923
+::res://addons/fsm/::1677610431
+fsm.gd::GDScript::-1::1677609923::0::1::::<>Node<>::
+fsm_plugin.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+icon.png::CompressedTexture2D::6358150549790415845::1677609923::1677610431::1::::<><>::
+plugin.cfg::TextFile::-1::1677609923::0::1::::<><>::
+::res://addons/midi/::1677610431
+ADSR.gd::GDScript::-1::1677609923::0::1::::<>AudioStreamPlayer<>::
+ADSR.tscn::PackedScene::-1::1677609923::0::1::::<><>::res://addons/midi/ADSR.gd
+Bank.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+GMP.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+icon.png::CompressedTexture2D::1008577085342125691::1677609923::1677610431::1::::<><>::
+MidiPlayer.gd::GDScript::-1::1677609923::0::1::::<>Node<>::
+MidiPlayer.tscn::PackedScene::-1::1677609923::0::1::::<><>::res://addons/midi/MidiPlayer.gd
+MidiPlayerModUtility.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+MOD.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+plugin.cfg::TextFile::-1::1677609923::0::1::::<><>::
+SMF.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+SoundFont.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+Utility.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+::res://addons/mixing-desk/::1677610431
+icon.png::CompressedTexture2D::4071093042604599284::1677609923::1677610431::1::::<><>::
+mixing_desk.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+plugin.cfg::TextFile::-1::1677609923::0::1::::<><>::
+::res://addons/mixing-desk/music/::1677610431
+mdm_icon.png::CompressedTexture2D::1468013256931074404::1677609923::1677610431::1::::<><>::
+mixing_desk_music.gd::GDScript::-1::1677609923::0::1::::<>Node<>::
+song.gd::GDScript::-1::1677609923::0::1::::<>Node<>::
+song_icon.png::CompressedTexture2D::6115049632957153900::1677609923::1677610431::1::::<><>::
+::res://addons/mixing-desk/music/containers/::1677609923
+autofade_cont.gd::GDScript::-1::1677609923::0::1::::<>Node<>::
+autolayer_cont.gd::GDScript::-1::1677609923::0::1::::<>Node<>::
+concat_cont.gd::GDScript::-1::1677609923::0::1::::<>Node<>::
+core_cont.gd::GDScript::-1::1677609923::0::1::::<>Node<>::
+ran_cont.gd::GDScript::-1::1677609923::0::1::::<>Node<>::
+rollover_cont.gd::GDScript::-1::1677609923::0::1::::<>Node<>::
+seq_cont.gd::GDScript::-1::1677609923::0::1::::<>Node<>::
+::res://addons/mixing-desk/music/icons/::1677610431
+autofade_cont_icon.png::CompressedTexture2D::4511965070058568115::1677609923::1677610431::1::::<><>::
+autolayer_cont_icon.png::CompressedTexture2D::1176741921788691401::1677609923::1677610431::1::::<><>::
+concat_cont_icon.png::CompressedTexture2D::5643107160986569768::1677609923::1677610431::1::::<><>::
+core_cont_icon.png::CompressedTexture2D::7325648054332729359::1677609923::1677610431::1::::<><>::
+mdm_icon.png::CompressedTexture2D::78084756786673996::1677609923::1677610431::1::::<><>::
+ran_cont_icon.png::CompressedTexture2D::7636342872430745948::1677609923::1677610431::1::::<><>::
+rollover_cont_icon.png::CompressedTexture2D::4840662622581254479::1677609923::1677610431::1::::<><>::
+seq_cont_icon.png::CompressedTexture2D::1475946765648358295::1677609923::1677610430::1::::<><>::
+song_icon.png::CompressedTexture2D::2775720968834594189::1677609923::1677610430::1::::<><>::
+::res://addons/mixing-desk/sound/::1677610431
+multi_sound.gd::GDScript::-1::1677609923::0::1::::<>Node<>::
+snd_icon.png::CompressedTexture2D::7658849111847667287::1677609923::1677610430::1::::<><>::
+::res://addons/mixing-desk/sound/2d/::1677609923
+concat_cont.gd::GDScript::-1::1677609923::0::1::::<>Node2D<>::
+multi_sound.gd::GDScript::-1::1677609923::0::1::::<>Node2D<>::
+polysound.gd::GDScript::-1::1677609923::0::1::::<>Node2D<>::
+ran_cont.gd::GDScript::-1::1677609923::0::1::::<>Node2D<>::
+scatter_cont.gd::GDScript::-1::1677609923::0::1::::<>Node2D<>::
+spawn_sound.gd::GDScript::-1::1677609923::0::1::::<>AudioStreamPlayer2D<>::
+::res://addons/mixing-desk/sound/3d/::1677609923
+concat_cont.gd::GDScript::-1::1677609923::0::1::::<>Spatial<>::
+multi_sound.gd::GDScript::-1::1677609923::0::1::::<>Spatial<>::
+polysound.gd::GDScript::-1::1677609923::0::1::::<>Spatial<>::
+ran_cont.gd::GDScript::-1::1677609923::0::1::::<>Spatial<>::
+scatter_cont.gd::GDScript::-1::1677609923::0::1::::<>Spatial<>::
+spawn_sound.gd::GDScript::-1::1677609923::0::1::::<>AudioStreamPlayer3D<>::
+::res://addons/mixing-desk/sound/nonspatial/::1677609923
+concat_cont.gd::GDScript::-1::1677609923::0::1::::<>Node<>::
+multi_sound.gd::GDScript::-1::1677609923::0::1::::<>Node<>::
+polysound.gd::GDScript::-1::1677609923::0::1::::<>Node<>::
+ran_cont.gd::GDScript::-1::1677609923::0::1::::<>Node<>::
+scatter_cont.gd::GDScript::-1::1677609923::0::1::::<>Node<>::
+spawn_sound.gd::GDScript::-1::1677609923::0::1::::<>AudioStreamPlayer<>::
+::res://addons/water_pack/::1677610431
+2d_water_icon.svg::CompressedTexture2D::2854980494807453774::1677609923::1677610430::1::::<><>::
+2p5D_water_icon.svg::CompressedTexture2D::4978460044178108325::1677609923::1677610430::1::::<><>::
+buoyant_body.svg::CompressedTexture2D::8721354171878163252::1677609923::1677610430::1::::<><>::
+lake_icon.svg::CompressedTexture2D::1112133615056934209::1677609923::1677610430::1::::<><>::
+lowpoly_water_icon.svg::CompressedTexture2D::6595701618186381457::1677609923::1677610430::1::::<><>::
+main.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+ocean_icon.svg::CompressedTexture2D::8241124019121310393::1677609923::1677610430::1::::<><>::
+plugin.cfg::TextFile::-1::1677609923::0::1::::<><>::
+toon_water_icon.svg::CompressedTexture2D::8071217708467550160::1677609923::1677610430::1::::<><>::
+water.png::CompressedTexture2D::9197486806862231793::1677609923::1677610431::1::::<><>::
+::res://addons/water_pack/material/::1677609923
+2d_water.material::ShaderMaterial::-1::1677609923::0::1::::<><>::res://addons/water_pack/texture/noise_perlin.jpg
+2p5d_water.material::ShaderMaterial::-1::1677609923::0::1::::<><>::res://addons/water_pack/texture/noise_perlin.jpg
+dev_water.material::ShaderMaterial::-1::1677609923::0::1::::<><>::res://addons/water_pack/texture/noise_perlin.jpg
+lake.material::ShaderMaterial::-1::1677609923::0::1::::<><>::res://addons/water_pack/texture/wave_nor2.png
+low_poly.material::ShaderMaterial::-1::1677609923::0::1::::<><>::res://addons/water_pack/texture/noise_perlin.jpg
+ocean.material::ShaderMaterial::-1::1677609923::0::1::::<><>::res://addons/water_pack/texture/noise_perlin.jpg<>res://addons/water_pack/texture/foam.png
+rain_particle.material::ShaderMaterial::-1::1677609923::0::1::::<><>::
+ripple.material::ShaderMaterial::-1::1677609923::0::1::::<><>::res://addons/water_pack/texture/DynamicHeightmapNoise_Bump.png
+river.material::ShaderMaterial::-1::1677609923::0::1::::<><>::res://addons/water_pack/shader/water.shader<>res://addons/water_pack/texture/wave_nor2.png<>res://addons/water_pack/texture/wave_nor3.png
+toon_water.material::ShaderMaterial::-1::1677609923::0::1::::<><>::res://addons/water_pack/texture/ToonWater.png<>res://addons/water_pack/texture/small_wave.png
+water_fog.material::ShaderMaterial::-1::1677609923::0::1::::<><>::
+wet_dirt.material::ShaderMaterial::-1::1677609923::0::1::::<><>::res://addons/water_pack/shader/wet_dirt.shader<>res://addons/water_pack/texture/seamless_ground_dirt.jpg<>res://addons/water_pack/texture/DynamicHeightmapNoise_Bump.png<>res://addons/water_pack/texture/wave_nor1.png
+::res://addons/water_pack/preset/::1677609923
+2d_splash.tscn::PackedScene::-1::1677609923::0::1::::<><>::
+2d_water.tscn::PackedScene::-1::1677609923::0::1::::<><>::res://addons/water_pack/script/2d_water.gd
+2d_water_with_sprite.tscn::PackedScene::-1::1677609923::0::1::::<><>::res://addons/water_pack/shader/2d_water_with_sprite.shader<>res://addons/water_pack/texture/noise_perlin.jpg<>res://addons/water_pack/texture/water.png
+drop_water.tscn::PackedScene::-1::1677609923::0::1::::<><>::res://addons/water_pack/shader/screen_rain.shader<>res://icon.png
+drop_water_simple.tscn::PackedScene::-1::1677609923::0::1::::<><>::res://addons/water_pack/shader/screen_rain_simple.shader<>res://addons/water_pack/texture/noise_perlin.jpg<>res://icon.png
+little_waterfall.tscn::PackedScene::-1::1677609923::0::1::::<><>::res://addons/water_pack/texture/particle_cloud.png<>res://addons/water_pack/texture/waterfall2.jpg
+rain.tscn::PackedScene::-1::1677609923::0::1::::<><>::res://addons/water_pack/script/rain.gd<>res://addons/water_pack/texture/rain_particles.png
+under_water.tscn::PackedScene::-1::1677609923::0::1::::<><>::res://addons/water_pack/shader/under_water.shader<>res://icon.png
+waterfall.tscn::PackedScene::-1::1677609923::0::1::::<><>::res://addons/water_pack/texture/particle_cloud.png
+wet_dirt.tscn::PackedScene::-1::1677609923::0::1::::<><>::res://addons/water_pack/material/wet_dirt.material<>res://addons/water_pack/script/wet_dirt.gd<>res://addons/water_pack/texture/seamless_ground_dirt.jpg<>res://addons/water_pack/texture/DynamicHeightmapNoise_Bump.png<>res://addons/water_pack/texture/wave_nor1.png
+::res://addons/water_pack/script/::1677609923
+2d_water.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+2p5d_water.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+bouyancy_body.gd::GDScript::-1::1677609923::0::1::::<>RigidBody<>::
+BuoyancyPointGenerate.gd::GDScript::-1::1677609923::0::1::::<>Button<>::
+buoyancy_gizmo.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+buoyancy_gizmo_plugin.gd::GDScript::-1::1677609923::0::1::::<>EditorSpatialGizmoPlugin<>::
+buoyancy_points.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+LODPlane.gd::GDScript::-1::1677609923::0::1::::<>Spatial<>::
+lowpoly_water.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+ocean.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+rain.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+toon_water.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+under_water.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+water.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+wet_dirt.gd::GDScript::-1::1677609923::0::1::::<>RefCounted<>::
+::res://addons/water_pack/shader/::1677609923
+::res://addons/water_pack/texture/::1677610431
+2p5d_water_point_texture.png::CompressedTexture2D::1132713384755281803::1677609923::1677610431::1::::<><>::
+bowwave_normal.jpg::CompressedTexture2D::2775130890762105283::1677609923::1677610431::1::::<><>::
+DynamicHeightmapNoise_Bump.png::CompressedTexture2D::9003937559007653101::1677609923::1677610431::1::::<><>::
+foam.png::CompressedTexture2D::4827197215053426556::1677609923::1677610431::1::::<><>::
+noise.png::CompressedTexture2D::5060653635147036925::1677609923::1677610431::1::::<><>::
+noise_perlin.jpg::CompressedTexture2D::725027814312648928::1677609923::1677610431::1::::<><>::
+particle_cloud.png::CompressedTexture2D::3231069738184096446::1677609923::1677610431::1::::<><>::
+rain_particles.png::CompressedTexture2D::2759091601726492563::1677609923::1677610431::1::::<><>::
+seamless_ground_dirt.jpg::CompressedTexture2D::8963748409583867112::1677609923::1677610431::1::::<><>::
+small_wave.png::CompressedTexture2D::6285548397131103517::1677609923::1677610431::1::::<><>::
+ToonWater.png::CompressedTexture2D::4458045313526829285::1677609923::1677610431::1::::<><>::
+water.png::CompressedTexture2D::280823589057463407::1677609923::1677610431::1::::<><>::
+waterfall2.jpg::CompressedTexture2D::2753157226439869454::1677609923::1677610431::1::::<><>::
+waterfall.jpg::CompressedTexture2D::7209498193863711598::1677609923::1677610431::1::::<><>::
+water_bump.jpg::CompressedTexture2D::5998192633619985095::1677609923::1677610431::1::::<><>::
+wave_nor1.png::CompressedTexture2D::8168939308460992857::1677609923::1677610431::1::::<><>::
+wave_nor2.png::CompressedTexture2D::9103363218491178063::1677609923::1677610431::1::::<><>::
+wave_nor3.png::CompressedTexture2D::5292243122754913599::1677609923::1677610431::1::::<><>::
+wave_nor4.png::CompressedTexture2D::6471638491810858100::1677609923::1677610431::1::::<><>::
+wave_nor5.png::CompressedTexture2D::102199412493512274::1677609923::1677610431::1::::<><>::
+::res://Assets/::1677609922
+::res://Assets/Blender Stuff/::1677609922
+::res://Assets/Images/::1677609922
+::res://Assets/Images/Entities/::1677609922
+::res://Assets/Images/Entities/Coins/::1677610431
+CoinBody00_alb.png::CompressedTexture2D::6866788071103014312::1677609922::1677610431::1::::<><>::
+CoinBody00_nrm.png::CompressedTexture2D::6871440761466227904::1677609922::1677610431::1::::<><>::
+CoinBody00_rgh.png::CompressedTexture2D::3802222326444369089::1677609922::1677610431::1::::<><>::
+::res://Assets/Images/Entities/Scuttlebug/::1677610431
+Scuttlebug_alb.png::CompressedTexture2D::7260038708487313200::1677609922::1677610657::1::::<><>::
+Scuttlebug_eyes.png::CompressedTexture2D::5881491366184892591::1677609922::1677610657::1::::<><>::
+::res://Assets/Images/Entities/Star/::1677610434
+star_albedo.png::CompressedTexture2D::8124386997453731300::1677609922::1677610434::1::::<><>::
+star_emit.png::CompressedTexture2D::2508793987114346700::1677609922::1677610434::1::::<><>::
+star_normal.png::CompressedTexture2D::4347203457413003145::1677609922::1677610434::1::::<><>::
+star_rgh.png::CompressedTexture2D::5941938484925828585::1677609922::1677610434::1::::<><>::
+::res://Assets/Images/Mario/::1677610430
+Buttons.png::CompressedTexture2D::774091902605233279::1677609922::1677610430::1::::<><>::
+ButtonsA.png::CompressedTexture2D::592869027291975980::1677609922::1677610430::1::::<><>::
+ButtonsD.png::CompressedTexture2D::2871603801058655803::1677609922::1677610430::1::::<><>::
+Eyes.png::CompressedTexture2D::7152553011213239060::1677609922::1677610430::1::::<><>::
+EyesA.png::CompressedTexture2D::1438737494339906881::1677609922::1677610430::1::::<><>::
+EyesD.png::CompressedTexture2D::7147166435210391865::1677609922::1677610430::1::::<><>::
+Hair PieceA.png::CompressedTexture2D::7622590074837178722::1677609922::1677610430::1::::<><>::
+Hair_Piece.png::CompressedTexture2D::6786400883444182862::1677609922::1677610430::1::::<><>::
+Hair_PieceD.png::CompressedTexture2D::9098294776368719636::1677609922::1677610430::1::::<><>::
+Information.txt::TextFile::-1::1677609922::0::1::::<><>::
+Logo.png::CompressedTexture2D::6150511915323078181::1677609922::1677610430::1::::<><>::
+LogoA.png::CompressedTexture2D::7877561998363508848::1677609922::1677610430::1::::<><>::
+LogoD.png::CompressedTexture2D::3009533797765546747::1677609922::1677610430::1::::<><>::
+Mario.glb::PackedScene::804303057236324668::1677609922::1677610353::1::::<><>::uid://bn3w83ypcmg1e<>uid://c8xlkesf6tfnk<>uid://r7n135y4dsdt<>uid://dy1otces1x7c5<>uid://bixpabrtce8jr<>uid://lt0i3gov1ae8<>uid://c46a5iwbyrcno<>uid://b5rkma4l8kxvl<>uid://dhva0laush4gk<>uid://1v0jg7yaumao<>uid://5qxm2b7xhswv<>uid://crtyda0pby8wq<>uid://brnx28cv480c6<>uid://bt7xludt0saku<>uid://cvecfxu7pt0aq<>uid://dauevo33wicjv<>uid://dbfrgthwdka56<>uid://dohu683i4lmoe<>uid://kqlnxjg42xv6<>uid://cpihgkpfqpb6v<>uid://bml0rl1qk6r7a<>uid://dagoih1vtaq1s<>uid://15kwbjmegblt<>uid://xhq7ppypclaa<>uid://b4b21v8jmiaek<>uid://2tm7116rygjr<>uid://b5uhheekonbtf<>uid://2gm8a3m2twac<>uid://dodvmbrplg4wy
+MarioBody_alb.png::CompressedTexture2D::6399856728201829431::1677609922::1677610430::1::::<><>::
+MarioBody_mtl.png::CompressedTexture2D::398800373911476579::1677609922::1677610430::1::::<><>::
+MarioBody_nrm.png::CompressedTexture2D::1267186519385623573::1677609922::1677610430::1::::<><>::
+MarioBody_rgh.png::CompressedTexture2D::360737649914408287::1677609922::1677610430::1::::<><>::
+MarioCap_alb.png::CompressedTexture2D::191149817596880130::1677609922::1677610430::1::::<><>::
+MarioCap_mtl.png::CompressedTexture2D::5347272468132474901::1677609922::1677610430::1::::<><>::
+MarioCap_nrm.png::CompressedTexture2D::2027224015784531621::1677609922::1677610430::1::::<><>::
+MarioCap_rgh.png::CompressedTexture2D::2905932953372536412::1677609922::1677610430::1::::<><>::
+MarioEyeBall_alb.png::CompressedTexture2D::3848193509115148161::1677609922::1677610430::1::::<><>::
+MarioEyeBall_emm.png::CompressedTexture2D::3968392784853389029::1677609922::1677610430::1::::<><>::
+MarioEyeBall_rgh.png::CompressedTexture2D::3405326771372789378::1677609922::1677610430::1::::<><>::
+MarioEyePupil_alb.png::CompressedTexture2D::245346101366043799::1677609922::1677610430::1::::<><>::
+MarioEyePupil_emm.png::CompressedTexture2D::9087217821522691771::1677609922::1677610430::1::::<><>::
+MarioEyePupil_mtl.png::CompressedTexture2D::3701942746807096663::1677609922::1677610430::1::::<><>::
+MarioEyePupil_nrm.png::CompressedTexture2D::8195975387233744695::1677609922::1677610430::1::::<><>::
+MarioEyePupil_rgh.png::CompressedTexture2D::2896465445202788400::1677609922::1677610430::1::::<><>::
+MarioEye_alb.png::CompressedTexture2D::5750654336668236855::1677609922::1677610430::1::::<><>::
+MarioEye_rgh.png::CompressedTexture2D::6282146851091447801::1677609922::1677610430::1::::<><>::
+MarioFace_alb.png::CompressedTexture2D::7984699328017553319::1677609922::1677610430::1::::<><>::
+MarioFace_rgh.png::CompressedTexture2D::5965322831711899861::1677609922::1677610430::1::::<><>::
+MarioHairFace_alb.png::CompressedTexture2D::4547435894678534096::1677609922::1677610430::1::::<><>::
+MarioHairFace_nrm.png::CompressedTexture2D::7720194545104602518::1677609922::1677610430::1::::<><>::
+MarioHairFace_rgh.png::CompressedTexture2D::4960633931219515878::1677609922::1677610430::1::::<><>::
+MarioHair_alb.png::CompressedTexture2D::9152592295886900080::1677609922::1677610430::1::::<><>::
+MarioHair_nrm.png::CompressedTexture2D::6905429220768674163::1677609922::1677610430::1::::<><>::
+MarioHair_rgh.png::CompressedTexture2D::4377171443946362700::1677609922::1677610430::1::::<><>::
+MarioHand_alb.png::CompressedTexture2D::2197186579875688449::1677609922::1677610430::1::::<><>::
+MarioHand_nrm.png::CompressedTexture2D::1035629382383725594::1677609922::1677610430::1::::<><>::
+MarioHand_rgh.png::CompressedTexture2D::3056262058916027587::1677609922::1677610430::1::::<><>::
+Moustache.png::CompressedTexture2D::5819480869820605050::1677609922::1677610430::1::::<><>::
+MoustacheA.png::CompressedTexture2D::1111654056761499243::1677609922::1677610430::1::::<><>::
+MoustacheD.png::CompressedTexture2D::1331162773532553431::1677609922::1677610430::1::::<><>::
+Mario_Buttons.png::CompressedTexture2D::3358074441554713072::1677610343::1677610374::1::::<><>::
+Mario_Hair_Piece.png::CompressedTexture2D::7137239878813362304::1677610343::1677610374::1::::<><>::
+Mario_Eyes.png::CompressedTexture2D::1260107699651233961::1677610343::1677610374::1::::<><>::
+Mario_Moustache.png::CompressedTexture2D::8898352200059999482::1677610343::1677610374::1::::<><>::
+Mario_Logo.png::CompressedTexture2D::2996322955683398567::1677610343::1677610374::1::::<><>::
+Mario_MarioBody_nrm.png::CompressedTexture2D::4527809059451249329::1677610343::1677610374::1::::<><>::
+Mario_MarioBody_alb.png::CompressedTexture2D::812834149103704329::1677610343::1677610374::1::::<><>::
+Mario_MarioBody_mtl-MarioBody_rgh.png::CompressedTexture2D::6872367571332817912::1677610343::1677610374::1::::<><>::
+Mario_MarioFace_alb.png::CompressedTexture2D::7693981112918330530::1677610344::1677610374::1::::<><>::
+Mario_MarioFace_rgh.png::CompressedTexture2D::1869796230053495262::1677610344::1677610374::1::::<><>::
+Mario_MarioHairFace_nrm.png::CompressedTexture2D::3607914380965876799::1677610344::1677610374::1::::<><>::
+Mario_MarioHairFace_alb.png::CompressedTexture2D::2140114694726639665::1677610345::1677610374::1::::<><>::
+Mario_MarioHairFace_rgh.png::CompressedTexture2D::6006737491071958512::1677610345::1677610374::1::::<><>::
+Mario_MarioHand_nrm.png::CompressedTexture2D::7200830755686901359::1677610345::1677610374::1::::<><>::
+Mario_MarioHand_alb.png::CompressedTexture2D::3787485991511017128::1677610345::1677610374::1::::<><>::
+Mario_MarioHand_rgh.png::CompressedTexture2D::6255196198164074620::1677610346::1677610374::1::::<><>::
+Mario_MarioEyeBall_alb.png::CompressedTexture2D::7240816696889359771::1677610346::1677610374::1::::<><>::
+Mario_MarioEyeBall_rgh.png::CompressedTexture2D::8157627982684318264::1677610346::1677610374::1::::<><>::
+Mario_MarioCap_nrm.png::CompressedTexture2D::3252943864623027740::1677610346::1677610374::1::::<><>::
+Mario_MarioCap_alb.png::CompressedTexture2D::735610804939222893::1677610346::1677610375::1::::<><>::
+Mario_MarioCap_mtl-MarioCap_rgh.png::CompressedTexture2D::5842625326356678671::1677610346::1677610374::1::::<><>::
+Mario_MarioHair_nrm.png::CompressedTexture2D::1629823477375288300::1677610346::1677610375::1::::<><>::
+Mario_MarioHair_alb.png::CompressedTexture2D::7172513050661550998::1677610346::1677610375::1::::<><>::
+Mario_MarioHair_rgh.png::CompressedTexture2D::1887487791581605309::1677610347::1677610375::1::::<><>::
+Mario_MarioEye_alb.png::CompressedTexture2D::4425648470790489970::1677610347::1677610375::1::::<><>::
+Mario_MarioEye_rgh.png::CompressedTexture2D::1935109112076349323::1677610347::1677610375::1::::<><>::
+Mario_MarioEyePupil_nrm.png::CompressedTexture2D::8149395561130416760::1677610347::1677610375::1::::<><>::
+Mario_MarioEyePupil_alb.png::CompressedTexture2D::4533811284168161559::1677610347::1677610375::1::::<><>::
+Mario_MarioEyePupil_mtl-MarioEyePupil_rgh.png::CompressedTexture2D::1908272623699894178::1677610347::1677610375::1::::<><>::
+::res://Assets/Images/Mario/Mario/::1677609922
+Body.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+Buttons_64.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+Cap.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+EyeBall.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+EyeLid.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+EyePupil.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+Eyes_64.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+Face.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+Gloves_64.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+Hair.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+HairFace.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+Hair_64.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+Hair_Piece_64.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+Hand.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+Logo_64.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+mario-air-kick.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-backflip.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-backward-air-kb.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-braking.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-climb-down-ledge.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-crawling.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-crouch.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-death-on-back.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-death-on-stomach.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-death-standing.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-dive-slide.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-dive.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-double-jump-1.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-double-jump-2.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-double-jump-land.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-fast-longjump-land.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-fast-longjump.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-fire-burn.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-first-punch.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-flutterkick.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-forward-air-kb.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-freefall-land.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-freefall.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-ground-kick.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-ground-pound-land.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-ground-pound.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-hard-backward-kb.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-hard-forward-kb.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-idle-against-wall.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-idle-ledge.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-idle.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-in-water.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-jump-land.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-jump.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-landing-celebration.anim::Animation::-1::1677609922::0::1::::<><>::res://Assets/Sounds/Mario Voices/mario-haha.wav
+mario-medium-backward-kb.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-medium-forward-kb.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-pre-wallkick.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-pushing.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-quick-ledge-get-up.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-run.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-second-punch.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-sideflip.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-sidestep-left.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-sidestep-right.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-slide-kick.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-sliding.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-slow-ledge-get-up.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-slow-longjump-land.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-slow-longjump.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-soft-backward-kb.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-soft-forward-kb.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-spinning.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-star-dance.anim::Animation::-1::1677609922::0::1::::<><>::res://Assets/Sounds/Mario Voices/mario-herewego.wav
+mario-start-crawling.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-start-crouch.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-start-hanging.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-stop-braking.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-stop-crawling.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-stop-crouch.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-stop-diving.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-stop-slide-kick.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-stop-sliding.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-stop-star-dance.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-swim-1.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-swim-2.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-swinging-left-arm.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-swinging-right-arm.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-tiptoe.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-triple-jump.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-turning.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-walk.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-wallkick.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-water-action-end.anim::Animation::-1::1677609922::0::1::::<><>::
+mario-water-grab.anim::Animation::-1::1677609922::0::1::::<><>::
+Moustache_64.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+Overalls_64.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+Shirt_Cap_64.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+Shoes_64.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+Skin_64.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+::res://Assets/Music/::1677610329
+star_fanfare.ogg::AudioStreamOggVorbis::8764326293522911086::1677609922::1677610329::1::::<><>::
+::res://Assets/Music/Background/::1677610329
+hazy_maze_cave_intro.ogg::AudioStreamOggVorbis::3396334434140619662::1677609922::1677610329::1::::<><>::
+hazy_maze_cave_loop_base.ogg::AudioStreamOggVorbis::1905200794166468229::1677609922::1677610329::1::::<><>::
+hazy_maze_cave_loop_choir.ogg::AudioStreamOggVorbis::765250532240215382::1677609922::1677610329::1::::<><>::
+hazy_maze_cave_loop_guitar.ogg::AudioStreamOggVorbis::5757757276407808616::1677609922::1677610329::1::::<><>::
+::res://Assets/Sounds/::1677610432
+box_break.wav::AudioStreamWAV::1132336576111002024::1677609922::1677610432::1::::<><>::
+enter_course.wav::AudioStreamWAV::304455695039888554::1677609922::1677610432::1::::<><>::
+ground_pound.wav::AudioStreamWAV::9148906117506843202::1677609922::1677610432::1::::<><>::
+impact.wav::AudioStreamWAV::4624302950965615540::1677609922::1677610432::1::::<><>::
+power_meter_refill.wav::AudioStreamWAV::4941855683608297771::1677609922::1677610432::1::::<><>::
+slide2.wav::AudioStreamWAV::2907074697772331981::1677609922::1677610432::1::::<><>::
+step-floor.wav::AudioStreamWAV::5469701762334429656::1677609922::1677610432::1::::<><>::
+::res://Assets/Sounds/Entities/::1677610432
+enemy_down_1.wav::AudioStreamWAV::8868460242963687362::1677609922::1677610432::1::::<><>::
+sm64_impact.wav::AudioStreamWAV::4407101927481234967::1677609922::1677610431::1::::<><>::
+spotted_by_enemy.wav::AudioStreamWAV::4826772227792829407::1677609922::1677610431::1::::<><>::
+stomp.wav::AudioStreamWAV::3385934034117784753::1677609922::1677610431::1::::<><>::
+::res://Assets/Sounds/Entities/Coins/::1677610432
+coin_collect.wav::AudioStreamWAV::3591188371000169350::1677609922::1677610431::1::::<><>::
+::res://Assets/Sounds/Mario Voices/::1677610432
+mario-die.wav::AudioStreamWAV::1343339623692595382::1677609922::1677610431::1::::<><>::
+mario-doh.wav::AudioStreamWAV::1433566004577842553::1677609922::1677610431::1::::<><>::
+mario-haha.wav::AudioStreamWAV::3856150554315890860::1677609922::1677610431::1::::<><>::
+mario-herewego.wav::AudioStreamWAV::1546721176188518354::1677609922::1677610431::1::::<><>::
+mario-hoo.wav::AudioStreamWAV::8891021756222368111::1677609922::1677610431::1::::<><>::
+mario-oof.wav::AudioStreamWAV::8666732692950875789::1677609922::1677610431::1::::<><>::
+mario-pain.wav::AudioStreamWAV::2197591379611059648::1677609922::1677610431::1::::<><>::
+mario-pullup.wav::AudioStreamWAV::4717881783064301160::1677609922::1677610431::1::::<><>::
+mario-scream.wav::AudioStreamWAV::5610374890117341524::1677609922::1677610431::1::::<><>::
+mario-ugh.wav::AudioStreamWAV::201347475153468438::1677609922::1677610431::1::::<><>::
+mario-ungh.wav::AudioStreamWAV::3906497688801069519::1677609922::1677610431::1::::<><>::
+mario-wa.wav::AudioStreamWAV::5752351511658962017::1677609922::1677610431::1::::<><>::
+mario-waha.wav::AudioStreamWAV::7629313163245349332::1677609922::1677610431::1::::<><>::
+mario-whoa.wav::AudioStreamWAV::7357182505016301172::1677609922::1677610431::1::::<><>::
+mario-woo.wav::AudioStreamWAV::5938631251548714593::1677609922::1677610431::1::::<><>::
+mario-woohoo.wav::AudioStreamWAV::7564521030184182706::1677609922::1677610431::1::::<><>::
+mario-ya.wav::AudioStreamWAV::3543329385867466268::1677609922::1677610431::1::::<><>::
+mario-yahoo.wav::AudioStreamWAV::5539336929674618399::1677609922::1677610431::1::::<><>::
+::res://CameraStates/::1677609922
+Above Water Camera.gd::GDScript::-1::1677609922::0::1::::<>Node<>::
+Door Camera.gd::GDScript::-1::1677609922::0::1::::<>Node<>::
+Hanging Camera.gd::GDScript::-1::1677609922::0::1::::<>Node<>::
+Open Camera.gd::GDScript::-1::1677609922::0::1::::<>Node<>::
+Star Camera.gd::GDScript::-1::1677609922::0::1::::<>Node<>::
+::res://Door/::1677609922
+Door.gd::GDScript::-1::1677609922::0::1::::<>Area<>::
+Door.tscn::PackedScene::-1::1677609922::0::1::::<><>::res://Door/Door.gd
+::res://Entities/::1677609922
+Entity.gd::GDScript::-1::1677609922::0::1::::Entity<>Spatial<>::
+::res://Entities/Coin/::1677610332
+coin.dae::PackedScene::1418268516747118801::1677609922::1677610332::1::::<><>::
+Coin.gd::GDScript::-1::1677609922::0::1::::<>Entity<>::
+Coin.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::res://Assets/Images/Entities/Coins/CoinBody00_alb.png<>res://Assets/Images/Entities/Coins/CoinBody00_rgh.png<>res://Assets/Images/Entities/Coins/CoinBody00_nrm.png
+Coin.tscn::PackedScene::-1::1677609922::0::1::::<><>::res://Entities/Coin/coin.dae<>res://Entities/Coin/Coin.gd
+::res://Entities/Metal Cap/::1677609922
+Metal Cap.gd::GDScript::-1::1677609922::0::1::::<>Entity<>::
+Metal Cap.tscn::PackedScene::-1::1677609922::0::1::::<><>::res://Entities/Metal Cap/Metal Cap.gd<>res://Assets/Images/Mario/Mario/Cap.material
+::res://Entities/Power Block/::1677610375
+Power Block.gd::GDScript::-1::1677609922::0::1::::<>StaticBody<>::
+Power Block.glb::PackedScene::9205385993912281359::1677609922::1677610339::1::::<><>::uid://ja55q125w84b<>uid://dv8y7df0enslr
+Power Block.tscn::PackedScene::-1::1677609922::0::1::::<><>::res://Entities/Power Block/Power Block.gd<>res://Entities/Power Block/power_block.material<>res://Assets/Sounds/box_break.wav
+power_block.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+Power Block_power_block_normal.png::CompressedTexture2D::8702866753029143255::1677610332::1677610375::1::::<><>::
+Power Block_power_block_albedo.png::CompressedTexture2D::633575558148699727::1677610339::1677610375::1::::<><>::
+::res://Entities/Scuttlebug/::1677610340
+Scuttlebug-idle.anim::Animation::-1::1677609922::0::1::::<><>::
+Scuttlebug-spin.anim::Animation::-1::1677609922::0::1::::<><>::
+Scuttlebug-walk.anim::Animation::-1::1677609922::0::1::::<><>::
+Scuttlebug.dae::PackedScene::3139566676500916864::1677609922::1677610340::1::::<><>::
+Scuttlebug.gd::GDScript::-1::1677609922::0::1::::<>RefCounted<>::
+Scuttlebug.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::res://Assets/Images/Entities/Scuttlebug/Scuttlebug_alb.png
+Scuttlebug.tscn::PackedScene::-1::1677609922::0::1::::<><>::res://Entities/Scuttlebug/Scuttlebug.gd<>res://Entities/Scuttlebug/Scuttlebug.material<>res://Entities/Scuttlebug/Scuttlebug_eyes.material<>res://Assets/Sounds/Entities/spotted_by_enemy.wav
+Scuttlebug_eyes.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::res://Assets/Images/Entities/Scuttlebug/Scuttlebug_eyes.png
+Scuttlebug_hair.material::ShaderMaterial::-1::1677609922::0::1::::<><>::res://Assets/Images/Entities/Scuttlebug/Scuttlebug_alb.png
+::res://Entities/Star/::1677610340
+Star Eye.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::res://Assets/Images/Entities/Star/star_albedo.png
+Star.dae::PackedScene::5385061650318602733::1677609922::1677610340::1::::<><>::
+Star.gd::GDScript::-1::1677609922::0::1::::<>Area<>::
+Star.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::res://Assets/Images/Entities/Star/star_albedo.png<>res://Assets/Images/Entities/Star/star_rgh.png<>res://Assets/Images/Entities/Star/star_emit.png<>res://Assets/Images/Entities/Star/star_normal.png
+Star.tscn::PackedScene::-1::1677609922::0::1::::<><>::res://Entities/Star/Star.dae<>res://Entities/Star/Star.gd<>res://Assets/Sounds/enter_course.wav
+::res://Entities/Star/Star/::1677609922
+Star Eye.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::res://Assets/Images/Entities/Star/star_albedo.png<>res://Assets/Images/Entities/Star/star_rgh.png<>res://Assets/Images/Entities/Star/star_emit.png<>res://Assets/Images/Entities/Star/star_normal.png
+Star.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::res://Assets/Images/Entities/Star/star_albedo.png<>res://Assets/Images/Entities/Star/star_rgh.png<>res://Assets/Images/Entities/Star/star_emit.png<>res://Assets/Images/Entities/Star/star_normal.png
+::res://Mario/::1677609922
+Mario Sillhouette.tres::ShaderMaterial::-1::1677609922::0::1::::<><>::
+Mario.gd::GDScript::-1::1677609922::0::1::::Mario<>Spatial<>::
+Mario.tscn::PackedScene::-1::1677609922::0::1::::<><>::res://Assets/Images/Mario/Mario.glb<>res://Mario/Mario.gd<>res://Assets/Images/Mario/Mario/Shoes_64.material<>res://Assets/Images/Mario/Mario/Overalls_64.material<>res://Assets/Images/Mario/Mario/Gloves_64.material<>res://Assets/Images/Mario/Mario/Shirt_Cap_64.material<>res://Assets/Images/Mario/Mario/Buttons_64.material<>res://Assets/Images/Mario/Mario/Hair_Piece_64.material<>res://Assets/Images/Mario/Mario/Skin_64.material<>res://Assets/Images/Mario/Mario/Eyes_64.material<>res://Assets/Images/Mario/Mario/Moustache_64.material<>res://Assets/Sounds/Mario Voices/mario-haha.wav<>res://Assets/Sounds/slide2.wav<>res://addons/fsm/fsm.gd<>res://addons/fsm/icon.png<>res://Mario/Ground States/Idle.gd<>res://Mario/Ground States/Ledge Grab.gd<>res://Mario/Ground States/Star Dance.gd<>res://Mario/Ground States/Crouching.gd<>res://Mario/Ground States/Death.gd<>res://Mario/Ground States/Running.gd<>res://Mario/Ground States/Braking.gd<>res://Mario/Ground States/Turning.gd<>res://Mario/Ground States/Finish Turning.gd<>res://Mario/Ground States/Landing.gd<>res://Mario/Ground States/Decelerating.gd<>res://Mario/Ground States/Ground Knockback.gd<>res://Mario/Ground States/Punch.gd<>res://Mario/Ground States/Sliding.gd<>res://Mario/Ground States/Crouch Slide.gd<>res://Mario/Ground States/Slide Kick Slide.gd<>res://Mario/Ground States/Crawling.gd<>res://Mario/Air States/Jump.gd<>res://Mario/Air States/Double Jump.gd<>res://Mario/Air States/Triple Jump.gd<>res://Mario/Air States/Side Flip.gd<>res://Mario/Air States/BackFlip.gd<>res://Mario/Air States/Free Falling.gd<>res://Mario/Air States/Air Knockback.gd<>res://Mario/Air States/Longjump.gd<>res://Mario/Air States/Wall Kick.gd<>res://Mario/Air States/Soft Bonk.gd<>res://Mario/Air States/Dive.gd<>res://Mario/Air States/Steep jump.gd<>res://Mario/Air States/Rollout.gd<>res://Mario/Air States/Air Kick.gd<>res://Mario/Air States/Water Jump.gd<>res://Mario/Air States/Ground Pound.gd<>res://Mario/Air States/Slide Kick.gd<>res://Mario/Air States/Star Fall.gd<>res://Mario/Water States/Water Plunge.gd<>res://Mario/Water States/Water Idle.gd<>res://Mario/Water States/Breaststroke.gd<>res://Mario/Water States/Flutter Kick.gd<>res://Mario/Water States/Swimming End.gd<>res://Mario/Water States/Water Punch.gd<>res://Mario/Hanging States/Hanging.gd<>res://Mario/Hanging States/Start Hanging.gd<>res://Mario/Hanging States/Hang Moving.gd
+State.gd::GDScript::-1::1677609922::0::1::::State<>Node<>::
+::res://Mario/Air States/::1677609922
+Air Kick.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+Air Knockback.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+Air State.gd::GDScript::-1::1677609922::0::1::::AirState<>State<>::
+BackFlip.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+Dive.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+Double Jump.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+Free Falling.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+Ground Pound.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+Jump.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+Longjump.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+Rollout.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+Side Flip.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+Slide Kick.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+Soft Bonk.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+Star Fall.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+Steep jump.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+Triple Jump.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+Wall Kick.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+Water Jump.gd::GDScript::-1::1677609922::0::1::::<>AirState<>::
+::res://Mario/Ground States/::1677609922
+Braking.gd::GDScript::-1::1677609922::0::1::::<>GroundState<>::
+Crawling.gd::GDScript::-1::1677609922::0::1::::<>GroundState<>::
+Crouch Slide.gd::GDScript::-1::1677609922::0::1::::<>GroundState<>::
+Crouching.gd::GDScript::-1::1677609922::0::1::::<>StationaryState<>::
+Death.gd::GDScript::-1::1677609922::0::1::::<>StationaryState<>::
+Decelerating.gd::GDScript::-1::1677609922::0::1::::<>GroundState<>::
+Finish Turning.gd::GDScript::-1::1677609922::0::1::::<>GroundState<>::
+Ground Knockback.gd::GDScript::-1::1677609922::0::1::::<>GroundState<>::
+Ground State.gd::GDScript::-1::1677609922::0::1::::GroundState<>State<>::
+Idle.gd::GDScript::-1::1677609922::0::1::::<>StationaryState<>::
+Landing.gd::GDScript::-1::1677609922::0::1::::<>GroundState<>::
+Ledge Grab.gd::GDScript::-1::1677609922::0::1::::<>StationaryState<>::
+Punch.gd::GDScript::-1::1677609922::0::1::::<>GroundState<>::
+Running.gd::GDScript::-1::1677609922::0::1::::<>GroundState<>::
+Slide Kick Slide.gd::GDScript::-1::1677609922::0::1::::<>GroundState<>::
+Sliding.gd::GDScript::-1::1677609922::0::1::::<>GroundState<>::
+Star Dance.gd::GDScript::-1::1677609922::0::1::::<>StationaryState<>::
+Stationary State.gd::GDScript::-1::1677609922::0::1::::StationaryState<>GroundState<>::
+Turning.gd::GDScript::-1::1677609922::0::1::::<>GroundState<>::
+::res://Mario/Hanging States/::1677609922
+Hang Moving.gd::GDScript::-1::1677609922::0::1::::<>HangingState<>::
+Hanging State.gd::GDScript::-1::1677609922::0::1::::HangingState<>State<>::
+Hanging.gd::GDScript::-1::1677609922::0::1::::<>HangingState<>::
+Start Hanging.gd::GDScript::-1::1677609922::0::1::::<>HangingState<>::
+::res://Mario/Water States/::1677609922
+Breaststroke.gd::GDScript::-1::1677609922::0::1::::<>WaterState<>::
+Flutter Kick.gd::GDScript::-1::1677609922::0::1::::<>WaterState<>::
+Swimming End.gd::GDScript::-1::1677609922::0::1::::<>WaterState<>::
+Water Idle.gd::GDScript::-1::1677609922::0::1::::<>WaterState<>::
+Water Plunge.gd::GDScript::-1::1677609922::0::1::::<>WaterState<>::
+Water Punch.gd::GDScript::-1::1677609922::0::1::::<>WaterState<>::
+Water State.gd::GDScript::-1::1677609922::0::1::::WaterState<>State<>::
+::res://Misc/::1677609922
+Constants.gd::GDScript::-1::1677609922::0::1::::<>RefCounted<>::
+Utils.gd::GDScript::-1::1677609922::0::1::::<>RefCounted<>::
+::res://Physics/::1677609922
+Collisions.gd::GDScript::-1::1677609922::0::1::::<>RefCounted<>::
+debug_collisions.material::ShaderMaterial::-1::1677609922::0::1::::<><>::
+debug_collision_rays.material::StandardMaterial3D::-1::1677609922::0::1::::<><>::
+Surface.gd::GDScript::-1::1677609922::0::1::::<>RefCounted<>::

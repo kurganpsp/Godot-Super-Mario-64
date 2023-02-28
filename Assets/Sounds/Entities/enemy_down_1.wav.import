@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/enemy_down_1.wav-06a5e1087593f3bf8189e63a71b0f207.sample"
+type="AudioStreamWAV"
+uid="uid://dyl7ikv7vufws"
+path="res://.godot/imported/enemy_down_1.wav-06a5e1087593f3bf8189e63a71b0f207.sample"
 
 [deps]
 
 source_file="res://Assets/Sounds/Entities/enemy_down_1.wav"
-dest_files=[ "res://.import/enemy_down_1.wav-06a5e1087593f3bf8189e63a71b0f207.sample" ]
+dest_files=["res://.godot/imported/enemy_down_1.wav-06a5e1087593f3bf8189e63a71b0f207.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=false
 edit/normalize=true
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0

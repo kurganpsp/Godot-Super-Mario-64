@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/mario-ya.wav-ebe11fb837eed5ed0f607f068952ac3f.sample"
+type="AudioStreamWAV"
+uid="uid://bqqod8uj8t7vk"
+path="res://.godot/imported/mario-ya.wav-ebe11fb837eed5ed0f607f068952ac3f.sample"
 
 [deps]
 
 source_file="res://Assets/Sounds/Mario Voices/mario-ya.wav"
-dest_files=[ "res://.import/mario-ya.wav-ebe11fb837eed5ed0f607f068952ac3f.sample" ]
+dest_files=["res://.godot/imported/mario-ya.wav-ebe11fb837eed5ed0f607f068952ac3f.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=false
 edit/normalize=true
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0
